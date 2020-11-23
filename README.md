@@ -1,1 +1,1 @@
-# face_rec
+A simple facial recognition application for images.
